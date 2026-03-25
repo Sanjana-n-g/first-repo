@@ -1,16 +1,16 @@
-# first-repo
-#student details form
-##Description
-This project is a simple details form created using html
-##Features
--Enter name,USN,email,phone number
--gender selection
--address input
--submit button
-##Technologies used
--HTML
-##files
--index.html
--script.js
-##author
-Sanjana G
+This repository is created as a part of my project management tool lab
+
+FILES:
+#Helloworld
+#index.html
+#basic.html
+
+WORK DONE :
+created a repository
+added some files in repository
+creted a pull request
+merged pull requests
+
+CONCLUSION:
+successfully practiced VCS using github
+
