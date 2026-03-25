@@ -6,10 +6,10 @@ FILES:
 #basic.html
 
 WORK DONE :
-created a repository
-added some files in repository
-creted a pull request
-merged pull requests
+#created a repository
+#added some files in repository
+#creted a pull request
+#merged pull requests
 
 CONCLUSION:
 successfully practiced VCS using github
