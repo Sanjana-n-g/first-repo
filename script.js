@@ -1,4 +1,2 @@
-function greet(){
-  alert("Hello World");
-}
-greet();
+<!--This is my CTA project-->
+<!--Created by Sanjana-->
