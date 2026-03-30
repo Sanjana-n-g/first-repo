@@ -1,16 +1,12 @@
-This repository is created as a part of my project management tool lab
+#Project Management Tool Lab
 
-FILES:
-#Helloworld
-#index.html
-#basic.html
+This repository contains basic HTML,JavaScript and Java examples.
 
-WORK DONE :
-#created a repository
-#added some files in repository
-#creted a pull request
-#merged pull requests
+Files:
+-index.html
+-basic.html
+-script.js
+-Helloworld.java
 
-CONCLUSION:
-successfully practiced VCS using github
+Author:Sanjana
 
