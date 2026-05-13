@@ -9,6 +9,7 @@ This project is a simple details form created using html
 ##Technologies used
 -HTML
 ##files
+-readme.md
 -index.html
 -script.js
 ##author
